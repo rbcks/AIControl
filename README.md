@@ -26,4 +26,10 @@
 ## 군대
 >- 2022년 4월 30일 군 만기전역
 
-![Alt text](/path/to/img.jpg)
+## 취미
+>- 축구
+>- 탁구
+>- 게임(롤, 피파, 서든)
+<!-- ex -->
+<img src="http://www.apnews.kr/news/photo/202005/20200527_1_bodyimg_856029.PNG"watch="200">
+
