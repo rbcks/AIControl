@@ -30,6 +30,4 @@
 >- 축구
 >- 탁구
 >- 게임(롤, 피파, 서든)
-<!-- ex -->
-<img src="http://www.apnews.kr/news/photo/202005/20200527_1_bodyimg_856029.PNG"watch="200">
 
