@@ -28,10 +28,14 @@
 >- 2022년 4월 30일 군 만기전역
 
 ## 취미
->- 축구
+>- 축구 :soccer:
 >- 탁구
->- 게임 *(롤, 피파, 서든)*
+>- 게임 *(롤, 피파, 서든)* :video_game:
 >- 드라마보기
+>- 영화보기 :clapper:
 
 ## 좋아하는 동물
->- <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMjBfMjAy%2FMDAxNjQyNjM5NDE2MDIx.5CcMMg0c8WXyaonBTKLN9TrdWMmDGpwPhsl8td-Q_dkg.dlsmukhmXppJvWu9bZ0YX1bLcOuUnwx-g_PEPMGRlbAg.JPEG.reorio99%2Fshiba-inu-3600225_1920.jpg&type=sc960_832" width="150px" height="150px" title="Github_Logo"></img>
+>- 강아지
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMjBfMjAy%2FMDAxNjQyNjM5NDE2MDIx.5CcMMg0c8WXyaonBTKLN9TrdWMmDGpwPhsl8td-Q_dkg.dlsmukhmXppJvWu9bZ0YX1bLcOuUnwx-g_PEPMGRlbAg.JPEG.reorio99%2Fshiba-inu-3600225_1920.jpg&type=sc960_832" width="150px" height="150px" title="Github_Logo"></img>
+>- 고양이
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEyMDVfNDUg%2FMDAxNjM4Njg4OTM4NTM1.cSE20tDhvBDi1EvJ4BfO9K0PnzEEEnnIlJu6t1CEtygg.4sBzFA9sO0csayOkmSEYWlUZghTXgjC7io4jCBodV4Mg.JPEG.soristudio%2F%25BD%25C7%25C6%25F7%25C0%25CE%25C6%25AE_%252811%2529.jpg&type=sc960_832" width="150px" height="150px" title="Github_Logo"></img>
