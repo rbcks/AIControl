@@ -40,5 +40,12 @@
 - 고양이
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEyMDVfNDUg%2FMDAxNjM4Njg4OTM4NTM1.cSE20tDhvBDi1EvJ4BfO9K0PnzEEEnnIlJu6t1CEtygg.4sBzFA9sO0csayOkmSEYWlUZghTXgjC7io4jCBodV4Mg.JPEG.soristudio%2F%25BD%25C7%25C6%25F7%25C0%25CE%25C6%25AE_%252811%2529.jpg&type=sc960_832" width="150px" height="150px" title="Github_Logo"></img>
 
-|sr.no|                                        Function & description                     |
-|           ------------          |                                                       |
+
+
+
+
+|제목|내용|설명|
+|---|---|---|
+|테스트1|*강조1*|테스트3|
+|테스트1|**강조2**|테스트3|
+|테스트1|<span style="color:red">강조3</span>|테스트3|
