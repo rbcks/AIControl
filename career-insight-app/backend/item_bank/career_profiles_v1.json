@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Product Strategist",
+    "description": "Blend empathy and analysis to craft product direction.// 공감과 분석을 결합하여 제품 방향을 설계.",
+    "traits": {"creativity": 0.6, "analysis": 0.5, "communication": 0.7, "empathy": 0.8, "structure": 0.4, "exploration": 0.6, "stability": 0.3, "leadership": 0.5},
+    "values": ["empathy", "creativity"],
+    "conflicts": ["stability"],
+    "fit_notes": [
+      "Strong empathy helps prioritise user needs.// 강한 공감 능력은 사용자 니즈를 우선순위화.",
+      "Balanced creativity and analysis enables strategic ideation.// 창의성과 분석의 균형이 전략적 아이데이션을 지원."
+    ],
+    "growth_plan": [
+      "Study advanced discovery frameworks.// 고급 디스커버리 프레임워크 학습.",
+      "Shadow senior PMs for roadmap planning.// 선임 PM과의 섀도잉으로 로드맵 수립 배우기."
+    ]
+  },
+  {
+    "name": "Data Product Manager",
+    "description": "Drive data-heavy products with structure and insight.// 구조와 통찰로 데이터 중심 제품을 주도.",
+    "traits": {"creativity": 0.4, "analysis": 0.8, "communication": 0.6, "empathy": 0.5, "structure": 0.7, "exploration": 0.4, "stability": 0.6, "leadership": 0.5},
+    "values": ["analysis", "structure"],
+    "conflicts": ["exploration"],
+    "fit_notes": [
+      "Analytical strength aligns with complex dataset decisions.// 분석 역량이 복잡한 데이터셋 의사결정과 정렬.",
+      "Comfort with structure aids governance.// 구조 선호가 거버넌스에 기여."
+    ],
+    "growth_plan": [
+      "Complete SQL and experimentation masterclasses.// SQL 및 실험 설계 마스터 클래스 이수.",
+      "Mentor junior analysts quarterly.// 분기별 주니어 분석가 멘토링."
+    ]
+  },
+  {
+    "name": "Innovation Lead",
+    "description": "Champion exploratory work and inspire teams.// 탐색적 업무를 주도하고 팀을 고무.",
+    "traits": {"creativity": 0.8, "analysis": 0.5, "communication": 0.7, "empathy": 0.6, "structure": 0.3, "exploration": 0.8, "stability": 0.2, "leadership": 0.7},
+    "values": ["creativity", "exploration"],
+    "conflicts": ["structure"],
+    "fit_notes": [
+      "High creativity fuels experimentation.// 높은 창의성이 실험을 촉진.",
+      "Leadership focus supports cross-functional alignment.// 리더십 역량이 크로스 기능 협업 지원."
+    ],
+    "growth_plan": [
+      "Facilitate quarterly innovation sprints.// 분기별 혁신 스프린트 진행.",
+      "Establish external inspiration network.// 외부 인스피레이션 네트워크 구축."
+    ]
+  },
+  {
+    "name": "Platform Reliability Owner",
+    "description": "Guard platform stability with structured practices.// 구조적 실천으로 플랫폼 안정성을 지키기.",
+    "traits": {"creativity": 0.3, "analysis": 0.7, "communication": 0.5, "empathy": 0.4, "structure": 0.8, "exploration": 0.2, "stability": 0.9, "leadership": 0.6},
+    "values": ["stability", "structure"],
+    "conflicts": ["exploration"],
+    "fit_notes": [
+      "Preference for stability suits incident management.// 안정성 선호가 장애 대응에 적합.",
+      "Structured mindset aligns with reliability engineering.// 구조적 사고가 신뢰성 엔지니어링과 정렬."
+    ],
+    "growth_plan": [
+      "Implement chaos engineering drills.// 카오스 엔지니어링 훈련 실행.",
+      "Lead reliability postmortems with action items.// 액션 아이템이 포함된 사후 분석 주도."
+    ]
+  }
+]

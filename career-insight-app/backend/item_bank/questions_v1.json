@@ -1,0 +1,66 @@
+[
+  {
+    "id": "q1",
+    "text": "새로운 아이디어를 탐색하는 것이 즐겁습니까?// Do you enjoy exploring new ideas?",
+    "dimension": "interest",
+    "focus": "creativity",
+    "weights": {"creativity": 0.8, "exploration": 0.6}
+  },
+  {
+    "id": "q2",
+    "text": "데이터를 분석하여 통찰을 얻는 작업을 좋아합니까?// Do you like analyzing data for insights?",
+    "dimension": "interest",
+    "focus": "analysis",
+    "weights": {"analysis": 0.9, "structure": 0.4}
+  },
+  {
+    "id": "q3",
+    "text": "팀의 의견을 조율하고 조정하는 것을 잘합니까?// Are you good at aligning team opinions?",
+    "dimension": "value",
+    "focus": "communication",
+    "weights": {"communication": 0.7, "leadership": 0.5}
+  },
+  {
+    "id": "q4",
+    "text": "사용자 공감을 바탕으로 제품 방향을 잡는 편입니까?// Do you rely on user empathy for product direction?",
+    "dimension": "value",
+    "focus": "empathy",
+    "weights": {"empathy": 0.9, "communication": 0.5}
+  },
+  {
+    "id": "q5",
+    "text": "정형화된 프로세스를 따르는 것이 편안합니까?// Is following structured processes comfortable for you?",
+    "dimension": "environment",
+    "focus": "structure",
+    "weights": {"structure": 0.8, "stability": 0.4}
+  },
+  {
+    "id": "q6",
+    "text": "빠르게 바뀌는 환경이 동기를 부여합니까?// Do fast-changing environments motivate you?",
+    "dimension": "environment",
+    "focus": "exploration",
+    "weights": {"exploration": 0.7, "stability": -0.5}
+  },
+  {
+    "id": "q7",
+    "text": "기술 스택의 깊이를 파는 데 시간을 쓰는 것을 즐깁니까?// Do you enjoy digging deep into a technology stack?",
+    "dimension": "skill",
+    "focus": "analysis",
+    "weights": {"analysis": 0.8, "structure": 0.6}
+  },
+  {
+    "id": "q8",
+    "text": "사람을 성장시키는 리더 역할을 선호합니까?// Do you prefer a leadership role that grows people?",
+    "dimension": "value",
+    "focus": "leadership",
+    "weights": {"leadership": 0.9, "empathy": 0.6},
+    "tag": "project_lead"
+  },
+  {
+    "id": "q9",
+    "text": "독립적으로 일하는 것이 더 효율적입니까?// Are you more efficient working independently?",
+    "dimension": "reverse",
+    "focus": "communication",
+    "weights": {"communication": -0.6, "structure": 0.4}
+  }
+]
